@@ -23,3 +23,4 @@ def hitung_luas_segitiga(alas, tinggi):
 print(f'Menghitung segitiga dengan fungsi, hasilnya = {hitung_luas_segitiga(10, 6)}')
 print(f'Menghitung segitiga dengan fungsi, hasilnya = {hitung_luas_segitiga(20, 2)}')
 print(f'Menghitung segitiga dengan fungsi, hasilnya = {hitung_luas_segitiga(100, 2)}')
+print(f'Dengan fungsi, segitiga dengan alas={alas} dan tinggi{tinggi} memiliki luas {hitung_luas_segitiga(alas, tinggi)}')

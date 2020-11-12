@@ -6,7 +6,7 @@ luas_segitiga = alas $ tinggi /2
 print('\nMenghitung Luas Segitiga')
 alas = 10
 tinggi = 6
-luas_segitiga = alas * tinggi /2
+luas_segitiga = alas * tinggi /2 
 print(f'segitiga dengan alas={alas} dan tinggi={tinggi} memiliki luas {luas_segitiga}')
 
 print('\nMenghitung Luas Segitiga dg Copypaste')

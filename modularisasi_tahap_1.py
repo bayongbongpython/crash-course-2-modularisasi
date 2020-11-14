@@ -1,6 +1,6 @@
 """
 Program Menghitung Luas Segitiga
-luas_segitiga = alas $ tinggi /2
+luas_segitiga = alas * tinggi /2
 """
 
 print('\nMenghitung Luas Segitiga')

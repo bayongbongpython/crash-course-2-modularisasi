@@ -6,6 +6,7 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="use_geometry.*" />
+          <option value="use_requests.requests" />
         </list>
       </option>
     </inspection_tool>
